@@ -296,7 +296,7 @@ void UMultiplayer5GameInstance::RemoveLoadingScreen() { //DEPRECATED
 
 }
 
-void UMultiplayer5GameInstance::ShowLoadingScreen() { //DEPRICATED
+void UMultiplayer5GameInstance::ShowLoadingScreen() { //DEPRECATED
 	APlayerController* PlayerController = GetFirstLocalPlayerController();
 	if (!ensure(PlayerController != nullptr)) return;
 	if (AEncoreHUD* LoadingHUD = Cast<AEncoreHUD>(PlayerController->GetHUD())) {
