@@ -6,6 +6,6 @@ There is also a folder which contains an Unreal Engine plugin I am developing as
 
 Unreal Engine **[Blueprint Portfolio](https://blueprintue.com/profile/justinahelmer/)**: Contains samples of **blueprint scripting** from my work.
 
-Link to my **[ArtStation](https://www.artstation.com/JustinAHelmer)**, which contains **ability examples** and **level design**.
+Link to my **[ArtStation]([https://www.artstation.com/JustinAHelmer](https://www.artstation.com/justinahelmer/albums/10574415))**, which contains **ability examples** and **level design**.
 
 Link to the [full project repo.](https://github.com/JustinAHelmer/Encore).
